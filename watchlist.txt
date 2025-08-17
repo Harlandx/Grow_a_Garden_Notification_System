@@ -1,0 +1,16 @@
+# GAG Items Watchlist
+# Add item names here (one per line) to monitor for stock availability
+# Lines starting with # are comments and will be ignored
+# This will check ALL categories: seeds, gear, eggs, cosmetics, eventshop
+# Example items: Carrot, Bamboo, Strawberry, Tomato, Blueberry, etc.
+
+Basic Sprinkler
+Advanced Sprinkler
+Godly Sprinkler
+Master Sprinkler
+Elder Strawberry
+Giant Pinecone
+Burning Bud
+Sugar Apple
+Ember Lily
+Mushroom

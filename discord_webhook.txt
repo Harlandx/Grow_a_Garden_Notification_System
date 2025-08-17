@@ -1,0 +1,6 @@
+# Discord Webhook URL
+# Replace the URL below with your actual Discord webhook URL
+# To create a webhook: Server Settings -> Integrations -> Webhooks -> New Webhook
+# Example: https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN
+
+https://discord.com/api/webhooks/
